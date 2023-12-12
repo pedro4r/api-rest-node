@@ -64,3 +64,4 @@ To use the application in production, I recommend using Insomnia with the follow
 - **GET** Method 
 - URL: `https://node-rest-api-ev6k.onrender.com/transactions/summary`
 
+![Demo Animation](https://raw.githubusercontent.com/pedro4r/jupiter-ui/assets/images/node-api-rest.png)
