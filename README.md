@@ -1,3 +1,5 @@
+This Node API, built with Fastify and Knex, aims to register transactions for personal financial control. Through it, the user can create a transaction, list all transactions, access their summary (credit - debit), and search for a specific transaction
+
 # Functional Requirements
 
 - [x] The user must be able to create a new transaction.
